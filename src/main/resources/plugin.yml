@@ -1,0 +1,4 @@
+name: NotSilkTouch
+version: '1.0-SNAPSHOT'
+main: me.jadenp.notSilkTouch.NotSilkTouch
+api-version: '1.21'
