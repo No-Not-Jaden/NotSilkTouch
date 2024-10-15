@@ -2,3 +2,10 @@ name: NotSilkTouch
 version: '1.0-SNAPSHOT'
 main: me.jadenp.notSilkTouch.NotSilkTouch
 api-version: '1.21'
+commands:
+  NotSilkTouch:
+    description: 'Reload the plugin.'
+permissions:
+  notsilktouch:
+    description: Used to give players silk touch to a specific block.
+    default: false

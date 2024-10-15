@@ -1,0 +1,4 @@
+# require the silk touch enchantment to be able to silk touch a block
+require-silk-touch-enchantment: true
+# require the right tool to break
+require-proper-tool: true
